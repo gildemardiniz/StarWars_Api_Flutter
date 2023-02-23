@@ -1,6 +1,5 @@
-# star_wars_api_test
-
-A new Flutter project.
+# APP de StarWars :flying_saucer: :rocket:
+Consumindo API REST de https://swapi.dev
 
 ## Getting Started
 
